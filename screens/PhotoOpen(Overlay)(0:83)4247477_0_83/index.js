@@ -22,7 +22,7 @@ import { getNavigationScreen } from "@modules"
 export class Blank extends React.Component {
   constructor(props) {
     super(props)
-
+//hey love this
     this.state = {}
   }
   render = () => (
